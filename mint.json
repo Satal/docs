@@ -18,12 +18,12 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:hi@siteseedling.com"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://siteseedling.com"
   },
   "tabs": [
     {
@@ -58,6 +58,12 @@
       ]
     },
     {
+      "group": "Customisation",
+      "pages": [
+        "customisation/logo-favicon",
+      ]
+    }
+    {,
       "group": "Essentials",
       "pages": [
         "essentials/markdown",
