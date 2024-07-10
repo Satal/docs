@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Site Seedling",
   "logo": {
     "dark": "/logo/SiteSeedling Text Logo White Text.png",
     "light": "/logo/SiteSeedling Text Logo.png"
@@ -54,7 +54,8 @@
     {
       "group": "Customisation",
       "pages": [
-        "customisation/logo-favicon"
+        "customisation/logo-favicon",
+        "customisation/social-links"
       ]
     },
     {
