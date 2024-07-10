@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/SiteSeedling Text Logo White Text.png",
+    "light": "/logo/SiteSeedling Text Logo.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/Site-Seedling.png",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
@@ -25,12 +25,6 @@
     "name": "Dashboard",
     "url": "https://siteseedling.com"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
       "name": "Documentation",
@@ -75,9 +69,9 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Security",
       "pages": [
-        "api-reference/introduction"
+        "security/cloudflare-turnstile.mdx"
       ]
     },
     {
