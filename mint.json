@@ -76,6 +76,12 @@
       ]
     },
     {
+      "group": "Integrations",
+      "pages": [
+        "integrations/gsc.mdx"
+      ]
+    },
+    {
       "group": "Endpoint Examples",
       "pages": [
         "api-reference/endpoint/get",
